@@ -1,4 +1,4 @@
-## Project Overview
+## \textcolor{ProcBlue}{Re\textsuperscript{2}} Agent: \textcolor{ProcPurple}{Reflection} and \textcolor{ProcOrange}{Re-execution} Agent for Embodied Decision Making
 
 This repository `Re2_Agent` contains example code used by **nju-lamda12** for the **Embodied Agent Interface (EAI) Challenge**.  
 
