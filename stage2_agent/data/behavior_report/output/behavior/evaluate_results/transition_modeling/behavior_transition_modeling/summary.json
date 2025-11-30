@@ -1,0 +1,26 @@
+{
+    "non-spatial_relations": {
+        "precision": 75.6786,
+        "recall": 68.0664,
+        "f1": 71.671,
+        "planner_success_rate": 0.0
+    },
+    "object_states": {
+        "precision": 39.0361,
+        "recall": 35.2174,
+        "f1": 37.0286,
+        "planner_success_rate": 0.0
+    },
+    "spatial_relations": {
+        "precision": 57.9221,
+        "recall": 32.1557,
+        "f1": 41.3537,
+        "planner_success_rate": 0.0
+    },
+    "overall": {
+        "precision": 61.9658,
+        "recall": 45.4545,
+        "f1": 52.4412,
+        "planner_success_rate": 0.0
+    }
+}
