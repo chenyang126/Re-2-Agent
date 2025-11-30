@@ -1,4 +1,4 @@
-## Re^{2} Agent: Reflection and Re-execution Agent for Embodied Decision Making
+## Re^2 Agent: Reflection and Re-execution Agent for Embodied Decision Making
 
 This repository `Re2_Agent` contains example code used by **nju-lamda12** for the **Embodied Agent Interface (EAI) Challenge**.  
 
